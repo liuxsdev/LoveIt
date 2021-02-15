@@ -2,3 +2,11 @@
 // Override Variables
 // 覆盖变量
 // ==============================
+
+//fonts
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+$global-font-family: -apple-system, BlinkMacSystemFont, Ubuntu, Segoe UI, Roboto,
+    Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial,
+    PingFang SC，Microsoft YaHei UI, sans-serif;
+
+$header-title-font-family: $global-font-family;
