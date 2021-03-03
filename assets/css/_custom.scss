@@ -13,3 +13,11 @@ img[data-sizes="auto"] {
     display: block;
     width: 100%;
 }
+
+//作者名称字体太大了
+.post-author{
+    float: left;
+}
+.single .post-meta .author{
+    font-size: inherit;
+}
